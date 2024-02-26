@@ -1,5 +1,7 @@
 # Try Manubot: Practice editing this manuscript
 
+# Yes, indeed
+
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://manubot.github.io/try-manubot/)
